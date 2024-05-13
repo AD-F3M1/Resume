@@ -6,11 +6,10 @@ h1 {
 }
 
 p {
-    color: lightblue;
-    text-transform: capitalize;
+    color: black;
 }
 
 ul {
-    color: lightblue;
+    color: black;
     text-transform: capitalize;
 }
